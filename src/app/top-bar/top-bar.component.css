@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+a.button.fancy-button {
+    background-color: white;
+    color:#4CB390;
+    font-weight: bold;
+}
