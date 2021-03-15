@@ -1,6 +1,6 @@
 # Angular - My Store
 
-Created following <a href="https://angular.io/start" target="_blank">this</a> example. 
+Created following <a href="https://angular.io/start" target="_blank">this</a> tutorial. 
 Hosted <a href="https://aulifarm.github.io/angular-tutorial-mystore/" target="_blank">here</a>.
 
 ## AngularTutorialMystore
