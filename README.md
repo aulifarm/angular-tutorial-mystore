@@ -8,5 +8,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Installation process
 
     1. Press "Clone" and use command line or your preferred IDE to download the project.
-    2. Go to the terminal and locate `<yourfolder>\kahvila`
+    2. Go to the terminal and locate `<yourfolder>\angular-tutorial-mystore`
     3. Type: `npm install`
